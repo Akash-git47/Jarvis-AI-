@@ -1,2 +1,18 @@
-# Jarvis-AI-
-JARVIS AI is a locally hosted intelligent assistant that not only answers questions but also controls your device. It can open browsers, play YouTube, write scripts, and automate tasks. Built on a fast, responsive model, it ensures quick performance and complete privacy for all user actions.
+# jarvis-ai-assistant
+
+# 🤖 AI Project
+
+This repository contains an AI-based project that utilizes external APIs and a machine learning model for intelligent automation. Follow the instructions below to install dependencies, set up API keys, and run the project locally.
+
+---
+
+## 📌 Features
+
+- Integration with external APIs
+- Machine learning model execution
+- Modular and scalable code structure
+
+---
+
+## 📁 Project Structure
+
